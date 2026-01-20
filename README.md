@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 im, ahmed mahmoud abdulhai
 # 💫 About Me:
 🎂 15 years old, Grade 10<br>🇪🇬 From Egypt<br>💻 Self-learning programming and building projects<br>🎓 CS50 course<br>🧩 Programming: Python, C<br>🌐 Web basics: HTML, CSS, JavaScript<br>🐧 Learning Linux fundamentals, Using arch btw<br>🧠 Improving problem-solving and logical thinking skills<br>🤖 Using AI as a learning and coding assistant<br>✨ Writing cleaner and more organized code<br>📈 Focused on continuous learning and steady improvement<br>💾 Planning to upgrade my PC with more RAM<br><br>
 
